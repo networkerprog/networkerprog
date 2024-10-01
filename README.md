@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @networkerprog
-- 👀 I’m interested in python, C, C++, Javascript, Java, Ruby, etc.
+- 👀 I’m interested in Python, C, Perl, Java, C++, Ruby etc.
 - 🌱 I’m currently learning python & JS
 - 💞️ I’m looking to collaborate on things in general regarding devops, automation & networking
 - 📫 How to reach me:
